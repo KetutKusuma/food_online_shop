@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "465339990931",
+    "project_id": "food-online-shop-tut",
+    "storage_bucket": "food-online-shop-tut.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465339990931:android:445d2b14464a3dbd84de66",
+        "android_client_info": {
+          "package_name": "com.example.food_online_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465339990931-40a2n8eidbj9v7mvu44r0i49q4ubl92m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6nsQ9jKNcGPI_wf-dpzmq6xTAzd2hSwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465339990931-40a2n8eidbj9v7mvu44r0i49q4ubl92m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
